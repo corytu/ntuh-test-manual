@@ -1,83 +1,83 @@
-,test_ename,test_cname,specimen,reference_range,detail_link
-0,ANCA(FEIA),抗中性球細胞質抗體（MPO、PR3）,血清(Serum),"Negative：< 3.5 IU/mL，
+test_ename,test_cname,specimen,reference_range,detail_link
+ANCA(FEIA),抗中性球細胞質抗體（MPO、PR3）,血清(Serum),"Negative：< 3.5 IU/mL，
 Equivocal：3.5-5.0 IU/mL，
 Positive：> 5.0 IU/mL ；
 Negative：< 2.0 IU/mL，
 Equivocal：2.0-3.0 IU/mL，
 Positive：> 3.0 IU/mL",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=355&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-1,ANCA(IFA),抗嗜中性球細胞質抗體,血清(Serum),Negative,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=341&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-2,Anti Beta-2-glycoprotein,抗Beta2-glycoprotein抗體,血清(Serum),"Negative：<7 U/mL
+ANCA(IFA),抗嗜中性球細胞質抗體,血清(Serum),Negative,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=341&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Anti Beta-2-glycoprotein,抗Beta2-glycoprotein抗體,血清(Serum),"Negative：<7 U/mL
 Weak Positive：7-10 U/mL
 Positive：>10 U/mL
 (2015/06/01變更，
 2014/06/04~2015/05/31，舊參考值為 0-20 SGU U/mL；
 2014/06/04之前，舊參考值為 <10 SGU U/mL)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=356&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-3,"Anti-Cardiolipin Ab, ACA, IgG",抗心磷脂抗體 IgG,血清(Serum),"Negative：<10 GPL-U/mL
+"Anti-Cardiolipin Ab, ACA, IgG",抗心磷脂抗體 IgG,血清(Serum),"Negative：<10 GPL-U/mL
 Weak Positive：10-40 GPL-U/mL
 Positive：>40 GPL-U/mL。
 (2015/01/21變更，舊參考值為 <10 GPL)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=357&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-4,"Anti-Cardiolipin Ab, ACA, IgM",抗心磷脂抗體 IgM,血清(Serum),<12.5 MPL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=358&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-5,Anti-CCP Ab,抗CCP抗體,血清(Serum),"Negative：<7 U/mL
+"Anti-Cardiolipin Ab, ACA, IgM",抗心磷脂抗體 IgM,血清(Serum),<12.5 MPL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=358&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Anti-CCP Ab,抗CCP抗體,血清(Serum),"Negative：<7 U/mL
 Equivocal：7-10 U/mL
 Positive：>10  U/mL",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=359&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-6,Anti-dsDNA Ab (EIA),抗去氧核糖核酸抗體(EIA),血清(Serum),"Negative：≦200 IU/mL(≦92.6 WHO units/mL)
+Anti-dsDNA Ab (EIA),抗去氧核糖核酸抗體(EIA),血清(Serum),"Negative：≦200 IU/mL(≦92.6 WHO units/mL)
 Equivocal：201-300 IU/mL(92.7~138.9 WHO units/mL)
 Positive：≧301 IU/mL(≧139 WHO units/mL)
 (1 IU/mL=0.463 WHO units/mL)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=342&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-7,Anti-dsDNA Ab (EIA)_M5,抗去氧核糖核酸抗體(EIA),血清(Serum),"Negative：≦92.6 WHO units/mL(≦200 IU/mL)
+Anti-dsDNA Ab (EIA)_M5,抗去氧核糖核酸抗體(EIA),血清(Serum),"Negative：≦92.6 WHO units/mL(≦200 IU/mL)
 Equivocal：92.7~138.9 WHO units/mL(201-300 IU/mL)
 Positive：≧139 WHO units/mL(≧301 IU/mL)
 (1 WHO units/mL=2.16 IU/mL)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=365&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-8,Anti-dsDNA Ab (FA),抗去氧核糖核酸抗體,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=343&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-9,Anti-ENA Screen,抗可萃取細胞核抗原抗體,血清(Serum),"Negetive：<0.7
+Anti-dsDNA Ab (FA),抗去氧核糖核酸抗體,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=343&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Anti-ENA Screen,抗可萃取細胞核抗原抗體,血清(Serum),"Negetive：<0.7
 Equivocal：0.7-1.0
 Positive：>1.0",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=360&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-10,Anti-GBM Ab,抗腎絲球基底膜抗體,血清(Serum),1:10(-),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=344&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-11,Anti-Jo-1 antibody,抗Jo-1抗體(Cap),血清(Serum),"Negetive：<7 U/mL
+Anti-GBM Ab,抗腎絲球基底膜抗體,血清(Serum),1:10(-),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=344&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Anti-Jo-1 antibody,抗Jo-1抗體(Cap),血清(Serum),"Negetive：<7 U/mL
 Equivocal：7-10 U/mL
 Positive：>10 U/mL",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=368&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-12,Anti-Nuclear Ab(ANA),抗核抗體,血清(Serum),"1:40 (-), 大於等於 1:160+建議為臨床上有意義之效價",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=345&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-13,"Anti-Phospholipid Ab, APA, IgG",抗磷脂抗體 IgG,血清(Serum),<15 GPL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=361&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-14,"Anti-Phospholipid Ab, APA, IgM",抗磷脂抗體 IgM,血清(Serum),<15 MPL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=362&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-15,Anti-Ribosomal-P antibody,抗核醣體P抗體,血清(Serum),"Negetive：<7 U/mL
+Anti-Nuclear Ab(ANA),抗核抗體,血清(Serum),"1:40 (-), 大於等於 1:160+建議為臨床上有意義之效價",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=345&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+"Anti-Phospholipid Ab, APA, IgG",抗磷脂抗體 IgG,血清(Serum),<15 GPL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=361&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+"Anti-Phospholipid Ab, APA, IgM",抗磷脂抗體 IgM,血清(Serum),<15 MPL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=362&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Anti-Ribosomal-P antibody,抗核醣體P抗體,血清(Serum),"Negetive：<7 U/mL
 Equivocal：7-10 U/mL
 Positive：>10 U/mL",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=363&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-16,Anti-Scl-70/centromere antibody,抗可萃取細胞核抗原抗體Scl-70/CENP,血清(Serum),"Negative：<7 U/mL
+Anti-Scl-70/centromere antibody,抗可萃取細胞核抗原抗體Scl-70/CENP,血清(Serum),"Negative：<7 U/mL
 Equivocal：7-10 U/mL
 Positive：>10  U/mL",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=364&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-17,Anti-Sm/RNP antibody,抗可萃取細胞核抗原抗體Sm/RNP,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=346&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-18,Anti-SSA/SSB antibody,抗可萃取細胞核抗原抗體SSA/SSB,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=347&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-19,Anti-Streptolysin O,抗鏈球菌素O,血清(Serum),< 408 IU/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=322&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-20,Aspergillus Antigen detection,麴菌抗原測定,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=317&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-21,Basement membrane zone antibody,抗基底膜區域抗體,血清(Serum),1:10(-),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=348&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-22,Beta 2- microglobulin,Beta 2-微小球蛋白定量,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=323&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-23,Beta 2- microglobulin_Urine,Beta 2-微小球蛋白定量,尿液(Urine),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=508&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-24,C3,補體C3,血清(Serum),90 ~ 180 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=324&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-25,C4,補體C4,血清(Serum),10 ~ 40 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=325&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-26,CK-isoenzyme,肌酸激酶同功酶,血清(Serum),"CK MM：97 - 100％
+Anti-Sm/RNP antibody,抗可萃取細胞核抗原抗體Sm/RNP,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=346&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Anti-SSA/SSB antibody,抗可萃取細胞核抗原抗體SSA/SSB,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=347&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Anti-Streptolysin O,抗鏈球菌素O,血清(Serum),< 408 IU/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=322&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Aspergillus Antigen detection,麴菌抗原測定,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=317&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Basement membrane zone antibody,抗基底膜區域抗體,血清(Serum),1:10(-),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=348&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Beta 2- microglobulin,Beta 2-微小球蛋白定量,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=323&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Beta 2- microglobulin_Urine,Beta 2-微小球蛋白定量,尿液(Urine),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=508&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+C3,補體C3,血清(Serum),90 ~ 180 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=324&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+C4,補體C4,血清(Serum),10 ~ 40 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=325&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+CK-isoenzyme,肌酸激酶同功酶,血清(Serum),"CK MM：97 - 100％
 CK MB：0 - 3％
 CK BB：0％",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=326&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-27,Cryoglobulin,冷凝球蛋白,血清(Serum),Negative,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=206&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-28,Cystatin C,胱蛋白C,血清(Serum),0.62~1.11 mg/L(2013/08/30變更，舊參考值為0.53~0.95 mg/L ),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=327&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-29,DR-70,上皮層腫瘤標記DR-70,血清(Serum),<1μg/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=349&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-30,Electrophoresis,血清蛋白電泳,血清(Serum),"Albumin：55.8-66.1%
+Cryoglobulin,冷凝球蛋白,血清(Serum),Negative,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=206&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Cystatin C,胱蛋白C,血清(Serum),0.62~1.11 mg/L(2013/08/30變更，舊參考值為0.53~0.95 mg/L ),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=327&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+DR-70,上皮層腫瘤標記DR-70,血清(Serum),<1μg/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=349&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Electrophoresis,血清蛋白電泳,血清(Serum),"Albumin：55.8-66.1%
 Alpha-1 globulins：2.9-4.9 %
 Alpha-2 globulins：7.1-11.8 %
 Beta-1 globulins：4.7-7.2%
 Beta-2 globulins：3.2-6.5%                                                      Gamma globulins：11.1-18.8 %",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=328&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-31,Gastric parietal cell antibody,抗胃壁細胞抗體,血清(Serum),1:10(-),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=350&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-32,IFE,免疫固定電泳,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=329&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-33,IFE_Urine,免疫固定電泳,尿液(Urine),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=509&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-34,IgA,免疫球蛋白A定量,血清(Serum),70 ~ 400 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=330&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-35,IgA_CSF,免疫球蛋白A定量,腦脊髓液(CSF),<  0.6 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=34&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-36,IgA_Urine,免疫球蛋白A定量,尿液(Urine),<  1.2 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=510&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-37,IgE Quantitation,免疫球蛋白E定量,血清(Serum),"<1歲：<15 (IU/mL)
+Gastric parietal cell antibody,抗胃壁細胞抗體,血清(Serum),1:10(-),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=350&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+IFE,免疫固定電泳,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=329&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+IFE_Urine,免疫固定電泳,尿液(Urine),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=509&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+IgA,免疫球蛋白A定量,血清(Serum),70 ~ 400 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=330&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+IgA_CSF,免疫球蛋白A定量,腦脊髓液(CSF),<  0.6 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=34&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+IgA_Urine,免疫球蛋白A定量,尿液(Urine),<  1.2 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=510&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+IgE Quantitation,免疫球蛋白E定量,血清(Serum),"<1歲：<15 (IU/mL)
 1-5歲：<60 (IU/mL)
 6-9歲：<90 (IU/mL)
 10-15歲：<200 (IU/mL)
 成人：<100 (IU/mL)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=331&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-38,IgG,免疫球蛋白G定量,血清(Serum),700 ~ 1600 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=332&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-39,IgG 1,免疫球蛋白G亞型定量G1,血清(Serum),"≤
+IgG,免疫球蛋白G定量,血清(Serum),700 ~ 1600 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=332&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+IgG 1,免疫球蛋白G亞型定量G1,血清(Serum),"≤
 1 歲：151 - 792 mg/dL
 > 1 to
 ≤
@@ -92,7 +92,7 @@ Beta-2 globulins：3.2-6.5%                                                     
 ≤
 18 歲：362 - 1027 mg/dL
 > 18 歲：405 - 1011 mg/dL",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=333&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-40,IgG 2,免疫球蛋白G亞型定量G2,血清(Serum),"≤
+IgG 2,免疫球蛋白G亞型定量G2,血清(Serum),"≤
 1 歲：26 - 136 mg/dL
 > 1 to
 ≤
@@ -107,7 +107,7 @@ Beta-2 globulins：3.2-6.5%                                                     
 ≤
 18 歲： 81 - 472 mg/dL
 > 18 歲：169 - 786 mg/dL",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=334&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-41,IgG 3,免疫球蛋白G亞型定量G3,血清(Serum),"≤
+IgG 3,免疫球蛋白G亞型定量G3,血清(Serum),"≤
 1 歲：9.3 - 92 mg/dL
 > 1 to
 ≤
@@ -122,7 +122,7 @@ Beta-2 globulins：3.2-6.5%                                                     
 ≤
 18 歲：13.8 - 105.8 mg/dL
 > 18 歲：11 - 85 mg/dL",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=335&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-42,IgG 4,免疫球蛋白G亞型定量G4,血清(Serum),"≤
+IgG 4,免疫球蛋白G亞型定量G4,血清(Serum),"≤
 1 歲：0.4 - 46.4 mg/dL
 > 1 to
 ≤
@@ -137,30 +137,30 @@ Beta-2 globulins：3.2-6.5%                                                     
 ≤
 18 歲：4.9 - 198.5 mg/dL
 > 18 歲： 3 - 201 mg/dL",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=336&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-43,IgG_CSF,免疫球蛋白G定量,腦脊髓液(CSF),<  3.4 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=35&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-44,IgG_Urine,免疫球蛋白G定量,尿液(Urine),<  0.96 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=511&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-45,IgM,免疫球蛋白M定量,血清(Serum),40 ~ 230 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=337&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-46,IgM_CSF,免疫球蛋白M定量,腦脊髓液(CSF),<  0.1 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=36&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-47,IgM_Urine,免疫球蛋白M定量,尿液(Urine),<  1.0 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=512&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-48,Intercellular substance antibody,抗細胞間質抗體,血清(Serum),1:10(-),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=351&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-49,Legionella Ag (Urine),尿液退伍軍人症肺炎病菌抗原,尿液(Urine),Negative,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=507&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-50,Liver/Kidney Microsomal AB(LKM),抗肝腎微粒體抗體,血清(Serum),1:10(-),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=352&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-51,Mitochondrial antibody,抗粒腺體抗體,血清(Serum),1:10(-),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=353&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-52,Other Body Fluid Electrophoresis,體液蛋白電泳,體液(Body Fluid),Normal,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=37&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-53,Quantitation of kappa & lambda free light chain,"免疫球蛋白游離輕鏈kappa, lamda定量",血清(Serum),"kappa free light chain：3.30-19.4 mg/L
+IgG_CSF,免疫球蛋白G定量,腦脊髓液(CSF),<  3.4 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=35&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+IgG_Urine,免疫球蛋白G定量,尿液(Urine),<  0.96 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=511&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+IgM,免疫球蛋白M定量,血清(Serum),40 ~ 230 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=337&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+IgM_CSF,免疫球蛋白M定量,腦脊髓液(CSF),<  0.1 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=36&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+IgM_Urine,免疫球蛋白M定量,尿液(Urine),<  1.0 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=512&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Intercellular substance antibody,抗細胞間質抗體,血清(Serum),1:10(-),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=351&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Legionella Ag (Urine),尿液退伍軍人症肺炎病菌抗原,尿液(Urine),Negative,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=507&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Liver/Kidney Microsomal AB(LKM),抗肝腎微粒體抗體,血清(Serum),1:10(-),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=352&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Mitochondrial antibody,抗粒腺體抗體,血清(Serum),1:10(-),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=353&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Other Body Fluid Electrophoresis,體液蛋白電泳,體液(Body Fluid),Normal,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=37&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Quantitation of kappa & lambda free light chain,"免疫球蛋白游離輕鏈kappa, lamda定量",血清(Serum),"kappa free light chain：3.30-19.4 mg/L
 lambda free light chain：5.71-26.30 mg/L",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=338&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-54,Quantitation of kappa & lambda free light chain_Urine,"免疫球蛋白游離輕鏈kappa, lamda定量",尿液(Urine),"kappa free light chain：1.35-24.19 mg/L
+Quantitation of kappa & lambda free light chain_Urine,"免疫球蛋白游離輕鏈kappa, lamda定量",尿液(Urine),"kappa free light chain：1.35-24.19 mg/L
 lambda free light chain：0.24-6.66 mg/L",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=513&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-55,Quantitation of kappa & lamda,"免疫球蛋白輕鏈kappa, lamda定量",血清(Serum),"kappa：170-370 mg/dL
+Quantitation of kappa & lamda,"免疫球蛋白輕鏈kappa, lamda定量",血清(Serum),"kappa：170-370 mg/dL
 lambda：90-210 mg/dL
 kappa/lambda：1.35 - 2.65",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=339&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-56,Quantitation of kappa & lamda_Urine,"免疫球蛋白輕鏈kappa, lamda定量",尿液(Urine),kappa/lambda：0.75 - 4.5,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=514&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-57,RA factor (Nephelometry),類風濕性關節炎因子,血清(Serum),< 15.9 IU/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=340&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-58,S.T.S (TPPA),梅毒螺旋體血液凝集試驗,血清(Serum),1:80(-),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=319&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-59,S.T.S (TPPA)_CSF,梅毒螺旋體血液凝集試驗,腦脊髓液(CSF),1:2(-),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=33&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-60,S.T.S (VDRL/RPR),梅毒螺旋體性病研究試驗,血清(Serum),Non-Reactive,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=320&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-61,Smooth muscle antibody,抗平滑肌抗體,血清(Serum),1:10(-),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=354&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
-62,Widal test & Weil-Felix test,沙門氏傷寒桿菌檢測,血清(Serum),"O：< 1:160
+Quantitation of kappa & lamda_Urine,"免疫球蛋白輕鏈kappa, lamda定量",尿液(Urine),kappa/lambda：0.75 - 4.5,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=514&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+RA factor (Nephelometry),類風濕性關節炎因子,血清(Serum),< 15.9 IU/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=340&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+S.T.S (TPPA),梅毒螺旋體血液凝集試驗,血清(Serum),1:80(-),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=319&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+S.T.S (TPPA)_CSF,梅毒螺旋體血液凝集試驗,腦脊髓液(CSF),1:2(-),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=33&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+S.T.S (VDRL/RPR),梅毒螺旋體性病研究試驗,血清(Serum),Non-Reactive,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=320&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Smooth muscle antibody,抗平滑肌抗體,血清(Serum),1:10(-),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=354&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+Widal test & Weil-Felix test,沙門氏傷寒桿菌檢測,血清(Serum),"O：< 1:160
 H：< 1:80
 OX19：< 1:160
 A：< 1:160
