@@ -1,0 +1,54 @@
+,test_ename,test_cname,specimen,reference_range,detail_link
+0,APT test,APT檢測試驗,新生兒糞便(stool),"新生兒胃液(Gastric juice)
+新生兒嘔吐物
+必須採集含血檢體，否則無法正確測出。",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=153&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+1,Ascites routine,腹水分析,腹水(Ascites),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=17&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+2,Ascites Routine(STAT),腹水分析,腹水(Ascites),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=42&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+3,Body  fluid Crystal Identification,體液結晶體檢查,關節液(Synovial fluid),Not found,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=18&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+4,CSF india ink preparation(STAT),腦脊髓液墨汁染色法,腦脊髓液(CSF),Not found,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=43&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+5,CSF Routine,腦脊髓液分析常規檢查,腦脊髓液(CSF),Cell count : 0 - 5 mono nuclear cells/μL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=19&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+6,CSF Routine(STAT),腦脊髓液常規檢查,腦脊髓液(CSF),Cell count :  0 - 5 mono nuclear cells/μL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=44&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+7,"CSF, India ink (CSF)",墨汁染色/新型隱球菌暗視野檢查(腦脊髓液),腦脊髓液(CSF),Not found,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=20&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+8,ESR: 1HR,紅血球沈降速率檢查,全血(EDTA Whole Blood),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=506&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+9,Immunochemical fecal occult blood test (iFOBT),糞便潛血反應檢查(免疫法定量),糞便(stool),Negative ( <100ng/mL),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=135&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+10,MULTISTIX (Routine),尿一般生化檢查,尿液(Urine),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=137&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+11,MULTISTIX(RAPID)(STAT),尿一般生化檢查(急件),尿液(Urine),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=138&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+12,Occult Blood(I) (Routine),糞便潛血反應檢查(化學法;常規),糞便(stool),"胃液(Gastric juice)
+Negative",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=152&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+13,Occult Blood(OB)(STAT),潛血反應檢查(化學法;常規),糞便(stool),"胃液(Gastric juice)
+痰液(Sputum)
+Negative",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=154&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+14,Peritoneal dialysis analysis,腹膜透析液分析,腹膜透析液(Peritoneal dialysis solution),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=21&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+15,Pleural effusion routine,胸水分析,胸水(Pleural effusion),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=22&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+16,Pleural effusion routine(STAT),胸水分析,胸水(Pleural effusion),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=45&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+17,Pregnancy test,尿液懷孕試驗,尿液(Urine),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=139&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+18,SEDIMENT (RAPID)(STAT),尿沉渣顯微鏡檢查(急件),尿液(Urine),"RBC：(0-2)/HPF
+WBC：(0-5)/HPF
+Epith：Squamous epithelial cells：(0-5)/HPF
+Cast：Hyaline cast (0-2)/LPF
+Crystal：None of Abnormal crystal/HPF
+Bacteria：(Fresh) - /HPF",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=140&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+19,SEDIMENT (Routine),尿沈渣顯微鏡檢查,尿液(Urine),"RBC：(0-2)/HPF
+WBC：(0-5)/HPF
+Epith：Squamous epithelial cells：(0-5)/HPF
+Cast：Hyaline cast (0-2)/LPF
+Crystal：None of Abnormal crystal/HPF
+Bacteria：(Fresh) - /HPF",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=141&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+20,Sediment (STAT),尿沈渣顯微鏡檢查,尿液(Urine),"RBC：(0-2)/HPF
+WBC：(0-5)/HPF
+Epith：Squamous epithelial cells：(0-5)/HPF
+Cast：Hyaline cast (0-2)/LPF
+Crystal：None of Abnormal crystal/HPF
+Bacteria：(Fresh) - /HPF",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=142&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+21,Stool Occult Blood (IA),糞便潛血反應檢查(免疫法定量),糞便(stool),Negative ( <100ng/mL),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=136&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+22,Stool: Amoebae(Direct smear for screening),糞便阿米巴檢查(直接抹片檢查),糞便(stool),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=145&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+23,Stool: Amoebae(STAT),糞便阿米巴檢查,糞便(stool),Not found,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=150&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+24,Stool: Fatty acid,糞便脂肪酸檢查,糞便(stool),< 100 droplets / HPF,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=146&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+25,Stool: Neutral fat,糞便中性脂肪檢查,糞便(stool),< 60 droplets / HPF,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=147&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+26,Stool: Parasite ova(Direct smear for screening),糞便寄生蟲卵檢查(直接抹片檢查),糞便(stool),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=148&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+27,Stool: WBC,糞便白血球（膿細胞）檢查,糞便(stool),< 3 WBCs/HPF,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=149&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+28,Stool: WBC(Pus cell)(STAT),糞便白血球（膿細胞）檢查,糞便(stool),< 3 WBCs/HPF,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=151&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+29,Synovial fluid routine,關節囊液分析常規檢查,關節液(Synovial fluid),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=23&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+30,Synovial fluid routine(STAT),關節囊液分析常規檢查,關節液(Synovial fluid),Cell count : WBC < 200 /μL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=46&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+31,Urine Biochemistry Exam(STAT),尿一般生化檢查,尿液(Urine),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=143&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+32,Urine Pregnancy Test(STAT),尿液懷孕試驗,尿液(Urine),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=144&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416

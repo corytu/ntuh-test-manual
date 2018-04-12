@@ -1,0 +1,350 @@
+,test_ename,test_cname,specimen,reference_range,detail_link
+0,(Iron & TIBC)_Iron,血清鐵,血清(Serum),"51~209 µg/dL (2013/11/13變更)
+(2012/07/05～2013/11/13：♂：70 - 180 µg/dL；♀：60 - 180 µg/dL)
+(2012/01/02～2012/07/05 參考值為50~212 µg/dL)
+(2012/01/02 前參考值：♂：75 - 178 µg/dL；♀：66 - 155 µg/dL)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=369&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+1,(Iron & TIBC)_TIBC,總鐵結合能力,血清(Serum),268~593 µg/dL (2013/11/13變更，舊參考值為 275 - 332 µg/dL),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=370&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+2,17-KS (Urine),尿液17-酮類固醇定量,二十四小時尿液(24hrs Urine),"♂：6 - 22 mg/24hrs
+♀：4 - 16 mg/24hrs",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=189&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+3,25-OH Vitamin D,維生素D,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=371&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+4,Acetaminophen(STAT),鎮痛解熱藥物Acetaminophen濃度,血清(Serum),有效治療濃度範圍：10 ~ 30 µg/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=242&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+5,"Adenosine Deaminase, ADA",腺核苷去胺酶,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=598&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+6,"Adenosine Deaminase, ADA_CSF,PLE",腺核苷去胺酶,胸水(Pleural effusion)；腦脊髓液(CSF),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=599&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+7,"Adrenocorticotropic hormone,ACTH",腎上腺皮質激素,血漿(EDTA Plasma),7.40 ~ 57.30 pg/mL (2013/11/13變更，舊參考值為 10 ~ 65 pg/mL),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=122&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+8,AFP＋β-HCG＋uE3＋Inhibin A,懷孕第二期唐氏症篩檢（試劑檢驗）,血清(Serum),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=372&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+9,Albumin(Blood),白蛋白,血清(Serum),3.5~5.7 g/dL (2013/11/13變更，舊參考值為3.5~5.0 g/dL),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=373&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+10,Albumin(Blood)(STAT),白蛋白,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=468&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+11,Albumin(CSF),白蛋白(CSF),腦脊髓液(CSF),13.4 ~ 23.7 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=38&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+12,Albumin/Globulin Ratio(Alb/Glo),白蛋白/球蛋白比值,血清(Serum),"Globulin：1.8~4.0 g/dL
+Albumin/Globulin Ratio(Alb/Glo)：1~2.8",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=374&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+13,ALP,鹼性磷酸酵素,血清(Serum),"34 ~ 104 U/L
+(2012/01/02 起變更，舊參考值為 60~220 U/L)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=375&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+14,ALP(STAT),鹼性磷酸酵素,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=469&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+15,Alpha-1-antitrypsin,Alpha1胰蛋白脢抑制脢定量,血清(Serum),84~218 mg/dL (2013/11/13變更，舊參考值為 97 - 161 mg/dL),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=376&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+16,Alpha-FetoProtein(AFP),Alpha胎兒蛋白,血清(Serum),< 20 ng/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=423&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+17,ALT(GPT),丙胺酸轉胺酵素,血清(Serum),0~41 U/L (2013/11/13變更，舊參考值為♂：< 41 U/L；♀：< 31 U/L),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=377&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+18,ALT(GPT)(STAT),丙胺酸轉胺酵素,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=470&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+19,Aluminum(Al),鋁,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=259&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+20,Amikacin,血中抗生素Amikacin藥物濃度,血清(Serum),"有效治療濃度範圍：
+peak：20~30 µg/mL
+trough：
+",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=207&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+21,Ammonia(STAT),氨,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=543&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+22,Amylase,澱粉酵素,血清(Serum),29~103 U/L(2012/01/02起變更，舊參考值:< 220 U/L),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=378&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+23,Amylase(STAT),澱粉酵素,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=471&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+24,Anti-HAV IgG,抗A型肝炎IgG抗體,血清(Serum),"判讀標準：
+Negative：＜1.0；
+Positive：≧1.0",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=424&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+25,Anti-HAV IgM,抗A型肝炎IgM抗體,血清(Serum),"判讀標準：
+Negative：＜1.0；
+Positive：≧1.0",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=425&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+26,Anti-HBc,抗B型肝炎核心抗原抗體,血清(Serum),"判讀標準：
+Negative：＜1.0；
+Positive：≧1.0",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=426&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+27,Anti-HBc IgM,抗B型肝炎核心抗原IgM抗體,血清(Serum),"判讀標準：
+Negative：＜1.0；
+Positive：≧1.0",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=427&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+28,Anti-HBc(STAT),抗B型肝炎核心抗原抗體,血清(Serum),"判讀標準：
+Negative：＜1.0；
+Positive：≧1.0",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=472&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+29,Anti-Hbe,抗B型肝炎e抗原抗體,血清(Serum),"判讀標準：
+Negative：＞1.0；
+Positive：≦1.0",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=428&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+30,Anti-HBs,抗B型肝炎表面抗原抗體,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=429&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+31,Anti-HBs(STAT),抗B型肝炎表面抗原抗體,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=473&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+32,Anti-HCV,抗C型肝炎抗體,血清(Serum),"判讀標準：
+Negative：＜1.0；
+Positive：≧1.0",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=430&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+33,Anti-HCV(STAT),抗C型肝炎抗體,血清(Serum),"判讀標準：
+Negative：＜1.0；
+Positive：≧1.0",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=474&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+34,Anti-Thyroglobulin antibody(Anti-Tg),抗甲狀腺球蛋白抗體,血清(Serum),< 14.4 IU/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=431&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+35,Anti-TPO,甲狀腺過氧化酶抗體,血清(Serum),<5.61 IU/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=432&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+36,Apo A1,Apo脂蛋白A1,血清(Serum),100~200 mg/dL(2016/02/04變更，舊參考區間為122~161 mg/dL),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=379&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+37,Apo B,Apo脂蛋白B,血清(Serum),50~155 mg/dL(2016/02/04變更，舊參考區間為69~105 mg/dL),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=380&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+38,AST(GOT),天門冬胺酸轉胺酵素,血清(Serum),8~31 U/L (2013/11/13變更，舊參考值為♂：< 37 U/L；♀：< 31 U/L),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=381&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+39,AST(GOT)(STAT),天門冬胺酸轉胺酵素,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=475&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+40,Beta-HCG,絨毛膜促性腺激素-乙亞單體,血清(Serum),"♂：< 2.5 mIU/mL
+♀(non-pregnant)：< 5.3 mIU/mL
+(2013/11/13變更，舊參考值不分男女 < 6.15 mIU/mL)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=208&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+41,Beta-HCG(STAT),絨毛膜促性腺激素-乙亞單體,血清(Serum),"♂：< 2.5 mIU/mL
+♀(non-pregnant)：< 5.3 mIU/mL
+(2013/11/13變更，舊參考值不分男女 < 6.15 mIU/mL)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=476&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+42,Bilirubin-D,直接型膽色素,血清(Serum),0.03~0.18 mg/dL(2013/11/13變更，舊參考值為 0.0 ~ 0.4 mg/dL),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=382&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+43,Bilirubin-D(STAT),直接膽紅素,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=477&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+44,Bilirubin-T,總膽色素,血清(Serum),0.3~1.0 mg/dL (2013/11/13變更，舊參考值為 0.2 ~ 1.2 mg/dL),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=383&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+45,Bilirubin-T(STAT),總膽紅素,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=478&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+46,Blood gas(STAT),動(靜)脈血氣體分析,全血(Whole Blood),"動脈：
+PH：7.35 ~ 7.45
+pO
+2
+：83 ~ 108 mmHg
+pCO
+2
+：35 ~ 45 mmHg
+HCO
+3
+：21 ~ 28 mmol/L
+Base Excess：-2 ~ +3 mmol/L
+靜脈：
+PH：7.32 ~ 7.41
+pO2：35 ~ 40 mmHg
+pCO2：42 ~ 52 mmHg
+HCO3：24 ~ 28 mmol/L
+Base Excess：-2 ~ +2 mmol/L",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=198&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+47,Blood Ketone(STAT),血中酮體測定,全血(Heparin Whole Blood),<0.6 mmol/L,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=544&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+48,CA-125,癌症抗原125,血清(Serum),< 35 U/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=433&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+49,CA15-3,癌症抗原15-3,血清(Serum),< 31 U/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=434&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+50,CA19-9,癌症抗原19-9,血清(Serum),< 37 U/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=435&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+51,Calcitonin,抑鈣素,血清(Serum),"♂：< 18.2 pg/mL
+♀：< 11.5 pg/mL",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=209&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+52,"Calcium, Ca",鈣,血清(Serum),2.15~2.58 mmol/L (2013/11/13變更，舊參考值為 2.02~ 2.6 mmol/L),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=384&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+53,"Calcium, Ca(STAT)",鈣,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=480&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+54,"Calcium, Ca(Urine)",鈣(尿液),尿液(Urine),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=515&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+55,Carbamazepine,血中抗癲癇藥物Carbamazepine濃度,血清(Serum),有效治療濃度範圍：4.0 ~ 12 µg/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=210&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+56,Carbamazepine(STAT),血中抗癲癇藥物Carbamazepine濃度,血清(Serum),有效治療濃度範圍：4.0 ~ 12 µg/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=243&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+57,Carboxyhemoglobin(STAT),一氧化碳血紅素,血液(Blood),0 ~ 1.5 %,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=199&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+58,Catecholamines (Urine),兒茶酚胺(尿),二十四小時尿液(24hrs Urine)/十二小時尿液(12hrs Urine),"Epinephrine：<22.4 µg/24h
+Norepinephrine：12.1~85.5 µg/24h
+Dopamine：50~450 µg/24h",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=190&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+59,CEA,癌胚胎抗原,血清(Serum),< 5 ng/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=436&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+60,Ceruloplasmin,血清銅藍蛋白,血清(Serum),18~58 mg/dL (2013/11/13變更，舊參考值為 20 - 60 mg/dL),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=385&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+61,"Chloride, Cl",氯,血清(Serum),98~107 mmol/L (2013/11/13變更，舊參考值為 98 - 108 mmol/L),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=386&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+62,"Chloride, Cl (STAT)",氯,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=481&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+63,"Chloride, Cl (Urine)",氯(尿),尿液(Urine),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=516&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+64,"Chloride, Cl (Urine)(STAT)",氯(尿),尿液(Urine),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=529&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+65,"Cholesterol, Total (T-CHO)",總膽固醇,血清(Serum),<200 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=387&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+66,"Cholesterol, Total(STAT)",總膽固醇,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=482&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+67,CK-MB(STAT),肌酸磷酸脢-MB亞型,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=483&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+68,Copper (Cu),銅,血清(Serum); 二十四小時尿液(24hrs Urine),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=134&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+69,Cortisol,皮質醇,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=388&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+70,C-Peptide (6 min),血糖激素刺激試驗 C端-連結胜肽 (6分鐘）,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=211&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+71,C-peptide(0 min),血糖激素刺激試驗 C端-連結胜肽 (0分鐘）,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=212&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+72,"Creatine Kinase, CK",肌酸磷酸酵素,血清(Serum),"30~223 U/L
+(2012/10/15起變更,舊參考值：
+♂：<190 U/L, ♀：<167 U/L)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=390&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+73,"Creatine Kinase, CK(STAT)",肌酸磷酸酵素,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=485&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+74,Creatinine (Blood),肌酸酐(血液),血清(Serum),0.6 ~ 1.3 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=391&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+75,Creatinine (Blood)(STAT),肌酸酐(血液),血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=486&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+76,Creatinine (Urine),肌酸酐(尿液),尿液(Urine),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=517&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+77,Creatinine (Urine)(STAT),肌酸酐(尿),尿液(Urine),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=530&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+78,Creatinine(POCT),肌酸酐(床邊檢驗),全血(Heparin Whole Blood),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=601&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+79,Cyclosporin A (C0),"環孢素, 給藥前谷底濃度",全血(EDTA Whole Blood),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=123&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+80,Cyclosporin A (C2),"環孢素, 給藥後兩小時高峰濃度",全血(EDTA Whole Blood),"有效治療濃度範圍：150 ~ 400 ng/mL 依移植器官, 移植後時間及排斥程度而異",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=124&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+81,DHEA-SO4,硫酸－DHEA,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=213&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+82,Digoxin,長葉毛地黃,血清(Serum),"有效治療濃度範圍：
+CHF：0.5~0.9 ng/mL；AF：0.5~2 ng/mL
+(2014/11/03變更，舊參考值為0.8 ~ 2.0 ng/mL)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=214&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+83,Digoxin(STAT),長葉毛地黃,血清(Serum),"有效治療濃度範圍：
+CHF：0.5~0.9 ng/mL；AF：0.5~2 ng/mL
+(2014/11/03變更，舊參考值為0.8 ~ 2.0 ng/mL)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=244&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+84,EPO,紅血球生成因子,血清(Serum),4.3~29 mIU/mL (2013/11/13變更，舊參考值為3.7-31.5 mIU/mL),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=215&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+85,Estradiol(E2),雌性激素,血清(Serum),"Follicular：<160 pg/mL
+Periovulation：34~400 pg/mL
+Luteal：27~246 pg/mL
+Untreated Postmenopausal：<30 pg/mL(90% range)
+Treated Postmenopausal：<93 pg/mL(90% range)
+Male：<56 pg/mL(90% range)
+(2013/11/13變更，舊參考區間如下：
+Follicular：26.6-161 pg/mL
+Pre-ovulatory peak：187-382 pg/mL
+Luteal：32.7-201 pg/mL
+postmenopausal：5.4-38.4 pg/mL
+Male：5.4-65.9 pg/mL)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=216&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+86,Everolimus(Certican),抗排斥藥物Certican血中濃度,全血(EDTA Whole Blood),有效治療濃度範圍：3 ~ 8 ng/mL (依合併藥物移植器官移植後時間及排斥程度而異),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=125&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+87,Ferritin,鐵蛋白,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=392&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+88,Folic Acid,葉酸,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=393&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+89,Free PSA,游離攝護腺特異抗原,血清(Serum),"%free PSA：23%±2%
+(當Total PSA在4~20 ng/ml)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=437&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+90,Free T4 (CIA),游離型甲狀腺素,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=394&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+91,FSH,濾泡刺激素,血清(Serum),"Follicular：2.8~11.3 mIU/mL
+Midcycle：5.8~21 mIU/mL
+Luteal：1.2~9.0 mIU/mL
+Postmenopausal：21.7~153 mIU/mL
+Treated Postmenopausal：9.7~111 mIU/mL
+Male：0.7~11.1 mIU/mL
+(2013/11/13變更，舊參考區間如下：
+Follicular：1.9-11.6 mIU/mL
+Midcycle peak：5.1-23.4 mIU/mL
+Luteal：1.4-9.6 mIU/mL
+postmenopausal：21.5-131 mIU/mL
+Male：1.6-9.7 mIU/mL)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=217&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+92,G-6-PD,葡萄糖6磷酸去氫脢,全血(EDTA Whole Blood),"新生兒(<7 Days)：12.5~21.6 U/gHb
+兒童(3個月-12歲)：8.8~18.4 U/gHb
+成人：6.4~12.9 U/gHb",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=126&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+93,Gamma-GT,麩胺酸轉胺酵素,血清(Serum),9~64 U/L (2013/11/13變更，舊參考值為 < 52 U/L),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=395&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+94,"Gamma-GT, GGT(STAT)",麩胺酸轉胺酵素,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=487&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+95,Gentamicin,血中抗生素Gentamicin濃度,血清(Serum),"有效治療濃度範圍：
+Peak：4~10 µg/mL；Trough：<2 µg/mL
+(2014/11/03變更，舊參考值為Peak：4~ 10 µg/mL)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=218&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+96,Glucose  2HR PC,飯後兩小時血糖,血漿(NaF Plasma),"< 140 mg/dL
+孕婦100g糖水試驗 < 155 mg/dL",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=192&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+97,Glucose (AC),空腹血糖,血漿(NaF Plasma),"70~100 mg/dL
+(2011/10/6 公告)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=193&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+98,GLUCOSE 2HR(STAT),血糖，飯後二小時,血漿(NaF Plasma),< 140 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=196&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+99,GLUCOSE 3 HR.,血糖，飯後三小時,血漿(NaF Plasma),"< 140 mg/dL
+孕婦100g糖水試驗 < 140 mg/dL",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=194&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+100,Glucose(CSF),腦脊髓液葡萄糖檢查,腦脊髓液(CSF),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=602&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+101,Glucose(Serum for ED),血糖,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=488&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+102,Glucose(STAT),血糖,血漿(NaF Plasma),"70~100 mg/dL
+(2011/10/6 公告)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=197&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+103,GnRH-0MIN(Female),性釋素刺激試驗－0MIN（女）,血清(Serum),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=219&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+104,GnRH-0MIN(Male),性釋素刺激試驗－0MIN（男）,血清(Serum),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=220&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+105,GnRH-120MIN,性釋素刺激試驗－120MIN,血清(Serum),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=221&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+106,GnRH-30MIN,性釋素刺激試驗－30MIN,血清(Serum),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=222&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+107,GnRH-60MIN,性釋素刺激試驗－60MIN,血清(Serum),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=223&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+108,GnRH-90MIN,性釋素刺激試驗－90MIN,血清(Serum),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=224&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+109,Haptoglobin,血紅素結合蛋白,血清(Serum),44~215 mg/dL (2013/11/13變更，舊參考值為 30 - 178 mg/dL),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=396&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+110,HbA1c,糖化血色素,全血(EDTA Whole Blood),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=127&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+111,HBeAg,B型肝炎e抗原,血清(Serum),"判讀標準：
+Negative：＜1.0；
+Positive：≧1.0",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=438&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+112,HBs Ag (針扎專用)(STAT),B型肝炎表面抗原,血清(Serum),判讀標準：＜0.05 IU/mL：Negative；≧0.05 IU/mL：Positive,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=489&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+113,HBsAg,B型肝炎表面抗原,血清(Serum),"判讀標準：
+＜0.05 IU/mL；
+≧0.05 IU/mL",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=439&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+114,HBsAg(STAT),B型肝炎表面抗原,血清(Serum),判讀標準：＜0.05 IU/mL：Negative；≧0.05 IU/mL：Positive,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=490&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+115,HDL,高密度脂蛋白膽固醇,血清(Serum),> 40 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=397&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+116,HDL(STAT),高密度脂蛋白膽固醇,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=491&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+117,hGH,生長激素,血清(Serum),"♂：< 3 ng/mL
+♀：< 8 ng/mL
+2012/2/23變更，舊參考值為 ≦ 4 ng/mL)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=225&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+118,"high sensitivity C-Reactive Protein, hsCRP",高敏感度C-反應蛋白,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=389&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+119,"high sensitivity C-Reactive Protein, hsCRP(STAT)",高敏感度C-反應蛋白,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=484&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+120,HIV Ag/Ab Combo -  For Screening,人類免疫缺陷病毒抗原抗體複合型篩檢試驗,血清(Serum),"判讀標準：
+Negative：S/CO< 1.00
+Positive：S/CO≧1.00",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=443&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+121,Homocysteine,類胱胺酸,血漿(EDTA Plasma),3.4 ~ 15.6 µmol/L,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=128&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+122,hsTSH(CIA),甲狀腺刺激素,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=398&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+123,HTLV I+II Antibody (Qualitative),人類嗜T淋巴球病毒第一型及第二型抗體 (定性),血清(Serum),"判讀標準：
+Negative：＜1.0；
+Positive：≧1.0",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=440&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+124,ICG(Indocyanine green)(0minute),肝臟機能ＩＣＧ色素檢查（０分鐘）,血漿(Heparin Plasma),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=538&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+125,ICG(Indocyanine green)(15minutes),肝臟機能ＩＣＧ色素檢查（１５分鐘）,血漿(Heparin Plasma),<12 %,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=539&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+126,ICG(Indocyanine green)(20minutes),肝臟機能ＩＣＧ色素檢查（２０分鐘）,血漿(Heparin Plasma),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=540&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+127,IGF-1,類胰島素成長因子,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=399&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+128,Insulin,胰島素,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=400&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+129,Lactic acid(STAT),乳酸,血漿(Heparin Plasma),0.5 ~ 2.2 mmol/L,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=545&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+130,LDH,乳酸去氫脢,血清(Serum),"140~271 U/L
+(2012/01/02起變更,舊參考值：230 - 460 U/L   )",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=401&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+131,LDH (CSF),乳酸去氫脢(CSF),腦脊髓液(CSF),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=39&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+132,LDH(STAT),乳酸去氫酵素,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=492&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+133,LDL,低密度脂蛋白膽固醇,血清(Serum),< 130 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=402&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+134,LDL(STAT),低密度脂蛋白膽固醇,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=493&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+135,Lead (Pb),鉛,全血(Heparin Whole Blood),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=541&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+136,LH,黃體化激素,血清(Serum),"Follicular：1.1~11.6 mIU/mL
+Midcycle：17~77 mIU/mL
+Luteal：<14.7 mIU/mL
+Postmenopausal：11.3~39.8 mIU/mL
+Male：0.8~7.6 mIU/mL
+(2013/11/13變更，舊參考區間如下：
+Follicular：2.6-12.1 mIU/mL
+Midcycle peak：27.3-96.9 mIU/mL
+Luteal：0.8-15.5 mIU/mL
+postmenopausal：13.3-86.5 mIU/mL
+Male：1.3-10.5 mIU/mL)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=226&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+137,Li(STAT),鋰,血清(Serum),0.6 ~ 1.2 mmol/L,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=245&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+138,Lipase,脂肪酶,血清(Serum),11~82 U/L(2012/07/05變更，舊參考值為＜30 U/L),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=403&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+139,Lipase(STAT),脂肪酶,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=494&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+140,"Magnesium, Mg",鎂,血清(Serum),0.78~1.11 mmol/L (2013/11/13變更，舊參考值為 0.7 ~ 1.03 mmol/L),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=404&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+141,"Magnesium, Mg(STAT)",鎂,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=495&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+142,"Magnesium, Mg(Urine)",鎂(尿),尿液(Urine),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=518&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+143,Methemoglobin(STAT),高鐵血紅素,血液(Blood),0 ~ 1.5 %,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=200&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+144,Methotrexate,血中葉酸拮抗藥物Methotrexate濃度,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=227&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+145,Microalbumin (urine),尿液微量蛋白,尿液(Urine),< 30 mg/L,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=519&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+146,Microalbumin / Cre(urine),尿液微量蛋白/肌肝酸(尿),尿液(Urine),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=520&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+147,NSE(Neuron Specific Enolase),神經原特異烯醇(小細胞肺癌標記),血清(Serum),<12.5 ng/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=228&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+148,NT-pro BNP(STAT),血清B型利納利尿胜肽原,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=479&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+149,OGTT (1H),50公克葡萄糖耐受性試驗,血漿(NaF Plasma),"< 200 mg/dL
+孕婦50g糖水試驗<130 mg/dL
+孕婦100g糖水試驗<180 mg/dL",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=195&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+150,Osmolarity(Blood),血液滲透壓,血清(Serum),"＜60歲：275~295 mOsm/Kg
+≧60歲：280~301 mOsm/Kg",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=405&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+151,Osmolarity(Urine),尿液滲透壓,尿液(Urine),300 ~ 1200 mOsm/Kg,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=521&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+152,PAPPA and Free Beta-HCG,懷孕第一期期唐氏症篩檢（試劑檢驗）,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=406&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+153,"Parathyroid hormone, i-PTH",副甲狀腺素,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=422&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+154,PH(STAT),酸鹼值,胸水(Pleural effusion)腹水(Ascites),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=47&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+155,Phenobarbital,血中抗癲癇藥物Phenobarbital濃度,血清(Serum),有效治療濃度範圍：10 ~ 40 µg/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=229&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+156,Phenytoin,血中抗癲癇藥物Phenytoin濃度,血清(Serum),有效治療濃度範圍：10 ~ 20 µg/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=230&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+157,Phenytoin(STAT),血中抗癲癇藥物Phenytoin濃度,血清(Serum),有效治療濃度範圍：10 ~ 20 µg/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=246&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+158,"Phosphate, P",磷,血清(Serum),2.5~5 mg/dL (2013/11/13變更，舊參考值為 2.7 - 4.5 mg/dL),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=407&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+159,"Phosphate, P(STAT)",磷,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=496&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+160,"Phosphate, P(Urine)",磷(尿),尿液(Urine),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=522&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+161,PIVKA-II,異常凝血酶原,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=604&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+162,Plasma free Ca++(STAT),血漿游離鈣測定(iCa),動脈血或靜脈血,1.09~1.30 mmol/L,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=590&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+163,"Potassium, K",鉀,血清(Serum),3.5~5.1 mmol/L (2013/11/13變更，舊參考值為 3.5 ~ 5.3 mmol/L),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=408&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+164,"Potassium, K(STAT)",鉀,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=497&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+165,"Potassium, K(Urine)",鉀(尿),尿液(Urine),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=523&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+166,"Potassium, K(Urine)(STAT)",鉀(尿),尿液(Urine),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=531&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+167,Prealbumin,前白蛋白（或甲狀腺素運載蛋白）,血清(Serum),17~34 mg/dL (2013/11/13變更，舊參考值為 16 - 40 mg/dL),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=409&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+168,Procalcitonin,前抑鈣素,血清(Serum),< 0.5 ng/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=410&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+169,Progesterone,黃體素,血清(Serum),"Follicular：<1.13 ng/mL
+Midcycle：0.48~1.72 ng/mL
+Luteal：0.95~21 ng/mL
+Postmenopausal：<1.0 ng/mL(Absolute Range)
+Male：0.27~0.9 ng/mL(Absolute Range)
+(2013/11/13變更，舊參考區間如下：
+Follicular：0.1-1.70 nmol/L
+Periovulatory：0.4-5.9 nmol/L
+Mid-luteal：6.0-24.0 nmol/L
+Luteal：1.0-22.4 nmol/L
+Pregnacy(4-12week)：11.2-43.1 nmol/L)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=231&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+170,Prolactin(PRL),催乳激素,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=232&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+171,PSA,前列腺特異抗原,血清(Serum),"40~49歲：< 2.5 ng/mL
+50~59歲：< 3.5 ng/mL
+60~69歲：< 4.5 ng/mL
+70~79歲：<6.5 ng/mL",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=441&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+172,RPR/VDRL test (Transplantation only),梅毒螺旋體性病研究試驗(移植檢驗專用),血清(Serum),Negative,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=498&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+173,Rubella virus IgG,德國痲疹病毒Rubella IgG抗體,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=233&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+174,Rubella virus IgM,德國痲疹病毒Rubella IgM抗體,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=234&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+175,"Saturated O2, SaO2(STAT)",氧氣飽和度,血液(Blood),動脈血：95 ~ 98 %；靜脈血：65 ~ 75 %,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=201&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+176,SCC,SCC腫瘤標記,血清(Serum),< 2.0 ng/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=442&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+177,Sex hormone binding globulin(SHBG),性腺荷爾蒙結合球蛋白,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=235&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+178,Sirolimus,Sirolimus全血濃度測定,全血(EDTA Whole Blood),"有效治療濃度範圍：
+trough：4 - 15 ng/mL
+(依合併藥物移植器官移植後時間及排斥程度而異)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=129&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+179,"Sodium, Na",鈉,血清(Serum),136~145 mmol/L (2013/11/13變更，舊參考值為 135 ~ 148 mmol/L),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=411&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+180,"Sodium, Na(STAT)",鈉,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=499&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+181,"Sodium, Na(Urine)",鈉(尿),尿液(Urine),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=524&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+182,"Sodium, Na(Urine)(STAT)",鈉(尿),尿液(Urine),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=532&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+183,T3(EIA/LIA),三碘甲狀腺素,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=412&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+184,T4(Thyroxine),四碘甲狀腺素,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=413&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+185,Tacrolimus(FK-506),抗排斥藥物FK-506血中濃度,全血(EDTA Whole Blood),有效治療濃度範圍：4 ~ 15 ng/mL (依合併藥物移植器官移植後時間及排斥程度而異),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=130&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+186,Testosterone,睪固酮,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=236&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+187,Theophylline,茶鹼,血清(Serum),"有效治療濃度範圍：
+Peak：5~15 µg/mL；Neonate：5~10 µg/mL
+(2014/11/03變更，舊參考值為10~20 µg/mL)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=237&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+188,Theophylline(STAT),茶鹼,血清(Serum),"有效治療濃度範圍：
+Peak：5~15 µg/mL；Neonate：5~10 µg/mL
+(2014/11/03變更，舊參考值為10~20 µg/mL)",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=248&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+189,Thyroglobulin,甲狀腺球蛋白,血清(Serum),< 55 ng/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=414&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+190,TNF-alpha,Alpha型腫瘤壞死因子,血清(Serum),< 8.1 pg/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=415&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+191,Total Protein (Blood),血中總蛋白量,血清(Serum),6.4~8.9 g/dL (2013/11/13變更，舊參考值為 6.8 ~ 8.7 g/dL),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=416&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+192,Total Protein (CSF),腦脊髓液總蛋白檢查,腦脊髓液(CSF),"成人：15-45 mg/dL
+新生兒<1個月：15-130 mg/dL",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=40&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+193,Total Protein (CSF)(STAT),腦脊髓液總蛋白檢查,腦脊髓液(CSF),"成人：15-45 mg/dL
+新生兒<1個月：15-130 mg/dL",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=48&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+194,Total Protein (Urine),尿液總白蛋白量,尿液(Urine),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=525&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+195,Total Protein(STAT),血中總蛋白量,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=500&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+196,Total Protein(Urine)(STAT),尿液總蛋白量(尿),尿液(Urine),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=533&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+197,Toxoplasma IgG,弓漿蟲Toxoplasma IgG抗體,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=238&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+198,Toxoplasma IgM,弓漿蟲Toxoplasma IgM抗體,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=239&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+199,Transferrin,運鐵蛋白定量,血清(Serum),203~362 mg/dL (2013/11/13變更，舊參考值為 260 - 400 mg/dL),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=417&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+200,"Triglyceride, TG",三酸甘油酯,血清(Serum),< 150 mg/dL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=418&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+201,"Triglyceride, TG(STAT)",三酸甘油,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=501&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+202,Troponin-T (STAT),心肌旋轉蛋白T,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=596&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+203,UN (Blood),血中尿素氮,血清(Serum),7~25 mg/dL (2013/11/13變更，舊參考值為 4.5 - 24 mg/dL),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=419&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+204,UN (Urine),尿中尿素氮,尿液(Urine),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=526&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+205,UN (Urine)(STAT),尿素氮(尿),尿液(Urine),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=534&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+206,UN(Blood)(STAT),尿素氮(血),血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=503&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+207,"Uric acid,UA",尿酸,血清(Serum),♂：4.4~7.6 mg/dL；♀：2.3~6.6 mg/dL (2013/11/13變更，舊參考值為♂：3.5 - 7.5 mg/dL；♀：2.6 - 7.5 mg/dL),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=420&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+208,"Uric acid,UA(STAT)",尿酸,血漿(Heparin Plasma),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=504&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+209,"Uric acid,UA(Urine)",尿酸(尿),尿液(Urine),不適用(N/A),https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=527&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+210,Urinary free cortisol(24 hr),游離腎上腺皮質固醇(24小時尿液),二十四小時尿液(24hrs Urine),4.3~176.0 µg/24hr,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=188&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+211,Urine Protein-Creatinine Ratio(UPCR),尿蛋白/尿肌酸酐比值,尿液(Urine),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=528&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+212,Valproic acid,血中抗癲癇藥物Valproic acid濃度,血清(Serum),有效治療濃度範圍：50 ~ 100 µg/mL,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=240&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+213,Vancomycin,血中抗生素Vancomycin濃度,血清(Serum),"有效治療濃度範圍：
+peak：18 ~ 26 µg/mL
+trough：10~15  µg/mL",https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=241&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+214,Vit. B12,維他命B12,血清(Serum),,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=421&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
+215,VMA (Urine),尿液香草扁桃酸,二十四小時尿液(24hrs Urine),1 - 7 mg/24h,https://www.ntuh.gov.tw/labmed/檢驗目錄/_layouts/15/listform.aspx?PageType=4&ListId=%7B11AB63BC%2D9633%2D4E26%2DB6D1%2D9DFC995D6A1F%7D&ID=191&ContentTypeID=0x01003E4C6DCCAFBEF64BACFA9B88DBDEF416
