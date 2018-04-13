@@ -21,9 +21,7 @@ A Python web crawler for NTUH clinical test manual
 目前已完成對每一檢驗項目之基本資料的爬取，並將詳細資料的超連結附於每項之表末，待日後進一步爬取整合（[issue #2](https://github.com/corytu/NTUHTestManual/issues/2)）。
 
 ## 系統需求與執行
-本次使用Chrome來執行爬取工作，因此若想自行執行本爬蟲程式，電腦中需要安裝Chrome。另外，為使`selenium`能操控瀏覽器，必須額外下載[chromedriver](https://sites.google.com/a/chromium.org/chromedriver/)並將其放在同一資料夾下。之後僅須於終端機執行`python crawler.py`即可。
-
-上述過程於MacOS 10.13.4、Python 3環境下測試無問題。
+本次使用Chrome來執行爬取工作，因此若想自行執行本爬蟲程式，電腦中需要安裝Chrome。另外，為使`selenium`能操控瀏覽器，必須額外下載[chromedriver](https://sites.google.com/a/chromium.org/chromedriver/)並將其放在同一資料夾下。Python套件方面，本爬蟲程式目前用到的有：`pandas`、`selenium`、`time`、`lxml`。全部安裝後僅須於終端機執行`python crawler.py`即可。
 
 ## 曾遭遇問題
 1. 動態網頁爬取
