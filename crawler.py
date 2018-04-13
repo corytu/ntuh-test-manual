@@ -1,8 +1,8 @@
 import pandas as pd
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
-from time import sleep
 from lxml import html
+from time import sleep
 
 # Tests include biochemistry, serology, molecular, hematology, coagulation, virology, bacteriology, out-patient, cytology, and blood bank
 tests = ["BC", "SER", "MO", "HE", "CT", "VI", "BA", "OP", "CY", "BK"]
