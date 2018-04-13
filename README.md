@@ -22,10 +22,10 @@ A Python web crawler for NTUH clinical test manual
 
 ## 系統需求與執行
 ### 瀏覽器
-本次使用Chrome來執行爬取工作，因此若想自行執行本爬蟲程式，電腦中需要安裝Chrome瀏覽器。另外，為使`selenium`能操控Chrome，必須額外下載[chromedriver](https://sites.google.com/a/chromium.org/chromedriver/)並將其放在與主程式同一資料夾下。
+本次使用Chrome來執行爬取工作，因此若想自行執行本爬蟲程式，電腦中需要安裝Chrome瀏覽器。另外，為使`selenium`能操控Chrome，必須額外下載[chromedriver](https://sites.google.com/a/chromium.org/chromedriver/)並將其放在與`crawler.py`同一資料夾下。
 
 ### 套件
-本爬蟲程式目前用到的有：`pandas`、`selenium`、`time`、`lxml`。
+本爬蟲程式目前用到的有：`pandas`、`selenium`、`lxml`、`time`。
 
 ### 啟動
 全部安裝後僅須於終端機執行`python crawler.py`即可（我是用Python 3寫的）。程式執行結束時資料夾會多出上述十個csv檔，並關閉Chrome瀏覽器。
@@ -36,6 +36,8 @@ A Python web crawler for NTUH clinical test manual
     與靜態網頁不同，動態網頁（e.g. aspx）無法透過`requests`套件對單一網址請求資料就拿到全部內容，因為當網頁上的「下一頁」被點擊時，實際上網址並沒有改變，而是有一個Ajax call被傳入，使得新資料被回傳（這裡研究了好久...）。下列的程式碼就永遠只能抓到`url`第一頁的資料：
     
     ```python
+    import requests
+    
     result = ""
     while result == "":
     try:
