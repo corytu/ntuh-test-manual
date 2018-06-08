@@ -10,27 +10,28 @@ tests = ["BC", "SER", "MO", "HE", "CT", "VI", "BA", "OP", "CY", "BK"]
 browser = webdriver.Chrome("./chromedriver")
 
 for test in tests:
-    url = "https://www.ntuh.gov.tw/labmed/檢驗目錄/Lists/2015/{}.aspx".format(test)
+    item_url = "https://www.ntuh.gov.tw/labmed/檢驗目錄/Lists/2015/{}.aspx".format(test)
     roughtable = dict(test_ename = [], test_cname = [], specimen = [], reference_range = [], notes = [], detail_link = [])
     # Make the browser visit the page
-    browser.get(url)
+    browser.get(item_url)
     # Attempt to turn the page 10 times
-    for i in range(10):
-        print("Crawling: {} tests, page {}".format(test, i+1))
+    for page in range(10):
+        print("Crawling: {} tests, page {}".format(test, page+1))
         # Sleep three seconds to prevent unexpected errors
         sleep(3)
         # Transform what browser gets into an element tree
-        root = html.fromstring(browser.page_source)
+        item_root = html.fromstring(browser.page_source)
         # Parse the information with Xpath
-        for row in root.xpath("//table[@class='ms-listviewtable']/tbody/tr"):
+        for item_row in item_root.xpath("//table[@class='ms-listviewtable']/tbody/tr"):
             # Find text contents recursively in the children of the td node without markup
-            texts = [col.text_content() for col in row.xpath("./td")]
-            roughtable["test_ename"].append(texts[1].strip())
-            roughtable["test_cname"].append(texts[3].strip())
-            roughtable["specimen"].append(texts[5].strip())
-            roughtable["reference_range"].append(texts[6].strip())
-            roughtable["notes"].append(texts[7].strip())
-            roughtable["detail_link"].append(row.xpath("./td/div/a/@href")[0].strip())
+            item_texts = [col.text_content() for col in item_row.xpath("./td")]
+            roughtable["test_ename"].append(item_texts[1].strip())
+            roughtable["test_cname"].append(item_texts[3].strip())
+            roughtable["specimen"].append(item_texts[5].strip())
+            roughtable["reference_range"].append(item_texts[6].strip())
+            roughtable["notes"].append(item_texts[7].strip())
+            detail_url = item_row.xpath("./td/div/a/@href")[0].strip()
+            roughtable["detail_link"].append(detail_url)
         try:
             browser.find_element_by_xpath("//td[@id='pagingWPQ2next']").click()
         except NoSuchElementException:
