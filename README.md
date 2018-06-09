@@ -49,7 +49,7 @@ A Python web crawler for NTUH clinical test manual
         continue
     ```
     
-    此外，`requests`套件不支援javascript物件，所以在用XPath搜尋物件時，[會少掉一層`tbody`結構](https://github.com/requests/requests/issues/4585)。因此本次最後選擇的解決方案，是透過`selenium`模擬點擊、並即時攔截瀏覽器上的資訊爬取。
+    此外，`requests`套件不支援javascript物件，所以在用XPath搜尋物件時，[會少掉一層`tbody`結構](https://github.com/requests/requests/issues/4585)，而且對於不在HTML原始碼的元件，無法透過`requests`+`lxml`取得（[Can't find a td node with id in XPath](https://stackoverflow.com/questions/50763386/cant-find-a-td-node-with-id-in-xpath)）。因此本次最後選擇的解決方案，是透過`selenium`模擬點擊、並即時攔截瀏覽器上的資訊爬取。
     
 2. 文字資訊被存在不同的html節點之下（雖然都在`td`之下但位置卻不同）
 
