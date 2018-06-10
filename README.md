@@ -24,7 +24,7 @@ A Python web crawler for NTUH clinical test manual
 本次使用Chrome來執行爬取工作，因此若想自行執行本爬蟲程式，電腦中需要安裝Chrome瀏覽器。另外，為使`selenium`能操控Chrome，必須額外下載[chromedriver](https://sites.google.com/a/chromium.org/chromedriver/)並將其放在與crawler.py同一資料夾下。
 
 ### 套件
-本爬蟲程式目前用到的有：`pandas`、`selenium`、`requests`、`lxml`、`time`、`random`、`re`、`warnings`。須額外安裝的套件請見[requirements.txt](requirements.txt)。
+本爬蟲程式目前用到的有：`pandas`、`selenium`、`requests`、`lxml`、`time`、`random`、`re`、`warnings`。須額外安裝的套件請見[requirements.txt](requirements.txt)（使用[`pipreqs`](https://github.com/bndr/pipreqs)自動產生）。
 
 ### 啟動
 全部安裝後僅須於終端機執行`python crawler.py`即可（我是用Python 3寫的）。程式執行結束時資料夾會多出上述十個csv檔，並關閉Chrome瀏覽器。
