@@ -6,7 +6,7 @@ A Python web crawler for NTUH clinical test manual
 
 本次主要使用的套件是`selenium`、`requests`以及`lxml`。前兩者用來模擬瀏覽器、在動態網頁上做出點擊動作，並向伺服器請求資料；後者則用來爬梳、抓取html網頁原始碼內容。[crawler.py](crawler.py)檔案中有整理過後的程式碼。
 
-爬取下來的資料依檢驗類別分類如下（與原網站同）：
+爬取下來的資料依檢驗類別分類如下（與原網站同），存放於[tests](tests/)子資料夾中：
 
 - BC: biochemistry
 - SER: serology and immunology
