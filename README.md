@@ -6,19 +6,6 @@ A Python web crawler for NTUH clinical test manual
 
 本次主要使用的套件是`selenium`、`requests`以及`lxml`。前兩者用來模擬瀏覽器、在動態網頁上做出點擊動作，並向伺服器請求資料；後者則用來爬梳、抓取html網頁原始碼內容。[crawler.py](crawler.py)檔案中有整理過後的程式碼。
 
-爬取下來的資料依檢驗類別分類如下（與原網站同），存放於[tests](tests/)子資料夾中：
-
-- BC: biochemistry
-- SER: serology and immunology
-- MO: molecular diagnosis
-- HE: hematology
-- CT: coagulation
-- VI: virology
-- BA: bacteriology
-- OP: clinical microscopy (out patients)
-- CY: cytology
-- BK: transfusion and transplantation (blood bank)
-
 ## 系統需求與執行
 ### 瀏覽器
 本次使用Chrome來執行爬取工作，因此若想自行執行本爬蟲程式，電腦中需要安裝Chrome瀏覽器。另外，為使`selenium`能操控Chrome，必須額外下載[chromedriver](https://sites.google.com/a/chromium.org/chromedriver/)並將其放在與crawler.py同一資料夾下。
